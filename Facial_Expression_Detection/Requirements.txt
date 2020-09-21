@@ -1,0 +1,1 @@
+Modules requiered Numpy, opencv2 and dlib(for Yawn detector).
